@@ -1,0 +1,232 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+#designMail {
+	width: auto;
+	height: 100%;
+	margin: auto;
+	border: 1px solid #78366ad1;
+	font-size: 16px;
+}
+#imhk {
+	margin: 4px auto 0 4px;
+	display: inline-block;
+	text-align: left;
+	width: 58px;
+	height: 58px;
+}
+#ia85 {
+	width: auto;
+	margin: 30px 0 0 0;
+}
+#iihn {
+	font-size: 17px;
+	text-align: left;
+	display: inline-block;
+	margin: 21px 0 21.44px 3px;
+	vertical-align: top;
+}
+#iz63 {
+	font-size: 18px;
+}
+@media (min-width: 1024px) {
+	#imhk {
+		width: 72px;
+		height: 72px;
+		margin: 8px 0 0 11px;
+	}
+	#iihn {
+		display: inline-block;
+		margin: 26.439999999999998px 0 21.44px 10px;
+		vertical-align: top;
+		font-size: 18px;
+		padding: 5px 5px 5px 5px;
+		background-color: #915b85;
+		color: #fdfdfd;
+	}
+	#designMail {
+		background-color: none;
+		border: 1px none rgba(120, 54, 106, 0.82);
+		min-height: 150%;
+		display: block;
+		padding: 4% 0 0 0;
+		width: 550px;
+	}
+	body {
+		background-color: #915b85;
+	}
+	#iz63 {
+		margin: 18.92px 0 14.920000000000002px 13px;
+	}
+	#ia85 {
+		background-color: #ffffff;
+		color: #918d8d;
+		padding: 0 0 23px 0;
+		margin: 30px 0 0 0;
+		border-radius: 4px 4px 0 0;
+	}
+	#i3lu {
+		margin: 0 0 0 15px;
+	}
+	#ishtb {
+		margin: 14px 37% 0 37%;
+		min-height: 40px;
+		width: 150px;
+		background-color: #d983a6;
+		color: #f6f3f3;
+		border: 2px none rgb(118, 118, 118);
+		border-radius: 4px 4px 4px 4px;
+	}
+	#ilaug {
+		font-weight: normal;
+	}
+	#idlqt {
+		font-size: 12px;
+		padding: 10px 20px;
+		color: rgb(255, 255, 255);
+		border-radius: 3px;
+		font-family: Helvetica, serif;
+	}
+	.button {
+		width: 200px;
+	}
+	#iip38 {
+		display: flex;
+		justify-content: space-between;
+		margin: 34px 0 0 0;
+		background-color: #ffffff;
+	}
+	#iguzc {
+		height: 165px;
+	}
+	#iz69w {
+		width: 100%;
+		padding: 3% 4% 0 4%;
+		display: block;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: flex-start;
+		background-color: #fff;
+	}
+	#iq8k9 {
+		font-size: 29px;
+		margin: 0 0 8px 0;
+		display: inline-block;
+		color: rgb(145, 141, 141);
+	}
+	#i0wuz {
+		display: flex;
+		justify-content: space-between;
+		margin: 34px 0 0 0;
+		background-color: #ffffff;
+	}
+	#i6fyb {
+		height: 165px;
+	}
+	#ijc7z {
+		width: 100%;
+		padding: 3% 4% 0 4%;
+		display: block;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: flex-start;
+	}
+	#i16pq {
+		font-size: 29px;
+		margin: 0 0 8px 0;
+		display: inline-block;
+		color: rgb(145, 141, 141);
+	}
+	#ibgwu {
+		display: flex;
+		justify-content: space-between;
+		margin: 34px 0 0 0;
+	}
+	#ifxl4 {
+		font-weight: normal;
+	}
+	#i05if {
+		display: flex;
+		justify-content: space-between;
+	}
+	#ia2s2 {
+		min-width: auto;
+		width: 260px;
+		text-align: left;
+		background-color: #fff;
+		margin: 0 0 0 2px;
+		padding: 0 4% 21px 0;
+		border-radius: 3% 3% 0 0;
+	}
+	#ie3fl {
+		width: 260px;
+		border-radius: 3% 3% 0 0;
+	}
+	#izysf {
+		display: inline-block;
+		margin: 23px 0 0 0;
+		padding: 0 2% 0 4%;
+		font-size: 19px;
+		color: rgb(145, 141, 141);
+	}
+	#iw6hh {
+		margin: 2px 0 14px 0;
+		text-align: justify;
+		width: 250px;
+		padding: 1% 3% 0 4%;
+	}
+	#ilqvf {
+		font-weight: normal;
+	}
+	#is7ek {
+		font-weight: normal;
+	}
+	#ifiyh {
+		min-width: auto;
+		width: 260px;
+		text-align: left;
+		background-color: #fff;
+		margin: 0 0 0 2px;
+		padding: 0 4% 0 0;
+		border-radius: 3% 3% 0 0;
+	}
+	#ib7k3 {
+		width: 260px;
+		border-radius: 3% 3% 0 0;
+	}
+	#iwuu1 {
+		display: inline-block;
+		margin: 24px 0 0 0;
+		padding: 0 2% 0 4%;
+		font-size: 19px;
+		color: rgb(145, 141, 141);
+	}
+	#i6yya {
+		margin: 2px 0 14px 0;
+		text-align: justify;
+		width: 250px;
+		padding: 1% 3% 0 4%;
+	}
+	#ijyi8 {
+		font-weight: 400;
+	}
+	#i9o8h {
+		margin: 32px 0 0 0;
+	}
+	#ifj7s {
+		padding: 3% 2% 3% 2%;
+		border: #fbf8f8 rgba(120, 54, 106, 0.82);
+		color: #fdfdfd;
+	}
+	#iibdq {
+		text-align: center;
+		color: #fdfdfd;
+	}
+	#ibnwu {
+		width: 551px;
+		border-radius: 3px 3px 0 0;
+	}
+}
