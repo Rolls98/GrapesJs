@@ -96,6 +96,14 @@ const editor = grapesjs.init({
 
 						togglable: false,
 					},
+					{
+						id: "preview",
+						active: true,
+						label: '<span class="fa fa-eye"></span>',
+						command: "preview",
+
+						togglable: false,
+					},
 				],
 			},
 		],
